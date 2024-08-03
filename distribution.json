@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "blue-1.20.1",
+      "id": "푸르름이 사는 곳",
       "name": "푸르름이 사는 곳",
       "description": "푸르름이 사는 곳 1.20.1 (Forge v47.2.32)",
       "icon": "https://github.com/Lunarii1022/Blue-distro/raw/main/launcherimg.jpg",
@@ -433,19 +433,6 @@
           ]
         },
         {
-          "id": "generated.forgemod:[1.20.1] hybrid aquatic 1.3.4 hotfix:0.0.0@jar",
-          "name": "[1.20.1] Hybrid Aquatic 1.3.4 Hotfix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2240698,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/[1.20.1]%20Hybrid%20Aquatic%201.3.4%20Hotfix.jar",
-            "MD5": "2d4ec3e72c8567145056c84a6f1180ce"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.mcreator.animalistica:animalistic_a:1.2.2@jar",
           "name": "Animalistic",
           "type": "ForgeMod",
@@ -537,32 +524,6 @@
           }
         },
         {
-          "id": "net.pandarix:betterarcheology:1.1.9-1.20.1@jar",
-          "name": "Better Archeology",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 894997,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/betterarcheology-1.1.9-1.20.1.jar",
-            "MD5": "bba3e8c55dd92eeecf1f864dfdd76b24"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:bettervillage:fabric-1.20.1-3.2.0@jar",
-          "name": "Bettervillage",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2038650,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/bettervillage-fabric-1.20.1-3.2.0.jar",
-            "MD5": "23f44a49bc88f19eb6f12e07a9179bbb"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.darkhax:bookshelf:20.1.10@jar",
           "name": "Bookshelf",
           "type": "ForgeMod",
@@ -615,32 +576,12 @@
           }
         },
         {
-          "id": "generated.forgemod:cloth:config-11.1.118-fabric@jar",
-          "name": "Cloth",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1159192,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/cloth-config-11.1.118-fabric.jar",
-            "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
-          }
-        },
-        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.118@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
           "artifact": {
             "size": 1168391,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/cloth-config-11.1.118-forge.jar",
-            "MD5": "728bdaa093e07f3567640d36c55656ae"
-          }
-        },
-        {
-          "id": "me.shedaniel.clothconfig:cloth_config:11.1.118@jar",
-          "name": "Cloth Config v10 API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1168391,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/cloth-config-11.1.118-forge%20(1).jar",
             "MD5": "728bdaa093e07f3567640d36c55656ae"
           }
         },
@@ -658,32 +599,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.43+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4514566,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/Connector-1.0.0-beta.43+1.20.1.jar",
-            "MD5": "4e4e9c88d0cad824f71ce2bd320a0c33"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "dev.su5ed.sinytra:connectorextras:1.10.1+1.20.1@jar",
-          "name": "Connector Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 188255,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/ConnectorExtras-1.10.1+1.20.1.jar",
-            "MD5": "6d5b2fef655f12977ee3a035685ef6c4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "cn.mcmod:corn_delight:1.0.4-1.20.1@jar",
           "name": "Corn Delight",
           "type": "ForgeMod",
@@ -691,19 +606,6 @@
             "size": 142501,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/corn_delight-1.0.4-1.20.1.jar",
             "MD5": "a42ed2de00253c4df6d1989493e5d138"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:cosmetica:1.20-1.2.8@jar",
-          "name": "Cosmetica",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 548944,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/cosmetica-1.20-1.2.8.jar",
-            "MD5": "fbb37d49b602617d8775f2f1d11d62b9"
           },
           "required": {
             "value": false
@@ -730,19 +632,6 @@
             "size": 382970,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/curios-forge-5.9.1+1.20.1.jar",
             "MD5": "c4bef497fe84a0140652e43b267bd6ee"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:damageful:1.0.3@jar",
-          "name": "Damageful",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 39676,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/Damageful-1.0.3.jar",
-            "MD5": "3fba175d02ee9d67eb367787a82d2f8b"
           },
           "required": {
             "value": false
@@ -801,19 +690,6 @@
           }
         },
         {
-          "id": "generated.forgemod:eating:animation-1.20+1.9.61@jar",
-          "name": "Eating",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1218710,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/eating-animation-1.20+1.9.61.jar",
-            "MD5": "090eeadcff74ce255e97285f8ab56472"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -853,19 +729,6 @@
           }
         },
         {
-          "id": "generated.forgemod:enhancedblockentities:0.9+1.20@jar",
-          "name": "Enhancedblockentities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 490690,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/enhancedblockentities-0.9+1.20.jar",
-            "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "traben.entity_model_features:entity_model_features:2.0.2@jar",
           "name": "Entity Model Features",
           "type": "ForgeMod",
@@ -886,52 +749,6 @@
             "size": 557480,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/entity_texture_features_forge_1.20.1-6.0.1.jar",
             "MD5": "970a3ca7bfdc3d18dce0ea375f085e7f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:entityculling:fabric-1.6.2-mc1.20.1@jar",
-          "name": "Entityculling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 59348,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/entityculling-fabric-1.6.2-mc1.20.1.jar",
-            "MD5": "29b1642d4e958fd88822e55410f70dfd"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041071,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
-            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
-          }
-        },
-        {
-          "id": "generated.forgemod:fabric:api-0.92.2+1.20.1@jar",
-          "name": "Fabric",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2107289,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/fabric-api-0.92.2+1.20.1.jar",
-            "MD5": "92c58961866741106aae126558c9d4a7"
-          }
-        },
-        {
-          "id": "generated.forgemod:fabric:language-kotlin-1.11.0+kotlin.2.0.0@jar",
-          "name": "Fabric",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7015315,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
-            "MD5": "ac91311ce91421ca52a96d2a4e4f078c"
           },
           "required": {
             "value": false
@@ -1029,19 +846,6 @@
           }
         },
         {
-          "id": "generated.forgemod:geckolib:fabric-1.20.1-4.4.7@jar",
-          "name": "Geckolib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1019299,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/geckolib-fabric-1.20.1-4.4.7.jar",
-            "MD5": "203c102e94b02b861c41f76b62805814"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "earth.terrarium:handcrafted:3.0.6@jar",
           "name": "Handcrafted",
           "type": "ForgeMod",
@@ -1049,19 +853,6 @@
             "size": 7111059,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/handcrafted-forge-1.20.1-3.0.6.jar",
             "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:imagicthud:1.2.4+mc1.20.1@jar",
-          "name": "Imagicthud",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 36984,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/imagicthud-1.2.4+mc1.20.1.jar",
-            "MD5": "2163f6e58bc77b612158932ea5228e91"
           },
           "required": {
             "value": false
@@ -1101,19 +892,6 @@
             "size": 7160167,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.0-forge.jar",
             "MD5": "63f6fbda1bf25c533561b596c74952d1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:keepsomeinventory:1.3.3@jar",
-          "name": "Keep Some Inventory",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 112397,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/KeepSomeInventory-v1.3.3.jar",
-            "MD5": "0199b47e529b6ddc59b014a5c1251317"
           },
           "required": {
             "value": false
@@ -1221,19 +999,6 @@
           }
         },
         {
-          "id": "generated.forgemod:libraryferret:fabric-1.20.1-4.0.0@jar",
-          "name": "Libraryferret",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 172458,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/libraryferret-fabric-1.20.1-4.0.0.jar",
-            "MD5": "1a127032d26acab3296808e5fed042e2"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.github.l_ender:lionfishapi:1.9@jar",
           "name": "LionfishAPI",
           "type": "ForgeMod",
@@ -1280,19 +1045,6 @@
             "size": 62156,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/midnightlib-forge-1.4.2.jar",
             "MD5": "d761d868afbde34f6d8a3e6ce5fd9793"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:modmenu:7.2.2@jar",
-          "name": "Modmenu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 721366,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/modmenu-7.2.2.jar",
-            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
           },
           "required": {
             "value": false
@@ -1361,16 +1113,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:owo:lib-0.11.2+1.20@jar",
-          "name": "Owo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 905421,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/owo-lib-0.11.2+1.20.jar",
-            "MD5": "9150f588f732ae38c0320a17fa340626"
           }
         },
         {
@@ -1443,19 +1185,6 @@
           }
         },
         {
-          "id": "generated.forgemod:simple:hud-enhanced+1.20-1.20.1-4.7.1@jar",
-          "name": "Simple",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1146676,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/simple-hud-enhanced+1.20-1.20.1-4.7.1.jar",
-            "MD5": "8c41d782059db4d4397b849b7b0f576b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "io.github.fourmisain:taxfreelevels:1.3.13@jar",
           "name": "Tax Free Levels",
           "type": "ForgeMod",
@@ -1482,19 +1211,6 @@
           }
         },
         {
-          "id": "generated.forgemod:tool_trims:2.1.3@jar",
-          "name": "Tool Trims",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1781104,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/tool-trims-mod-v2-1-3a%20(1).jar",
-            "MD5": "9d94267983594c44fc649002a4ac86b3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "fuzs.tradingpost:tradingpost:8.0.2@jar",
           "name": "Trading Post",
           "type": "ForgeMod",
@@ -1505,29 +1221,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:trinkets:3.7.1@jar",
-          "name": "Trinkets",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 234448,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/trinkets-3.7.1.jar",
-            "MD5": "94cb9e4f459150b3c6c85d8e920c3a09"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:triqueapi:mc1.20.1-1.1.0@jar",
-          "name": "Triqueapi",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 67881,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/required/triqueapi-mc1.20.1-1.1.0.jar",
-            "MD5": "358d8a7225cde4552671af2a4518541a"
           }
         },
         {
@@ -1544,19 +1237,6 @@
           }
         },
         {
-          "id": "generated.forgemod:visuality:0.7.1+1.20@jar",
-          "name": "Visuality",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 67302,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/visuality-0.7.1+1.20.jar",
-            "MD5": "14aaa65078fcff3af29fef4e1d7d2161"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.14@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -1564,19 +1244,6 @@
             "size": 7704423,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/voicechat-forge-1.20.1-2.5.14.jar",
             "MD5": "4fa0dc4efeaa356f3dca102ba30a3a6a"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:wardentools:2.5.0+mc1.20.1@jar",
-          "name": "Wardentools",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 178351,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/wardentools-2.5.0+mc1.20.1.jar",
-            "MD5": "a26ffc1f202a1506be6d0d51763646d0"
           },
           "required": {
             "value": false
@@ -1603,19 +1270,6 @@
             "size": 10495,
             "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/XP%20From%20Harvest%20Reworked-1.20.x-1.2.4.jar",
             "MD5": "00986aaffc346477f8bd1fbc5cc51aec"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:yetanotherconfiglib:3.5.0+1.20.1-fabric@jar",
-          "name": "YetAnotherConfigLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1148529,
-            "url": "https://raw.githubusercontent.com/Lunarii1022/Blue-distro/main/servers/blue-1.20.1/forgemods/optionalon/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
-            "MD5": "84ec83096ccce215ad670ce6ea8c3055"
           },
           "required": {
             "value": false
