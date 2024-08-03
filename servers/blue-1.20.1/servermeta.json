@@ -28,7 +28,8 @@
     {
       "appliesTo": ["libraries"],
       "patterns": [
-       "*.*"
+       "*.jar",
+       "*.jar.input"
       ]
     }
   ]
